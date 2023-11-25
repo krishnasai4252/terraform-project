@@ -88,7 +88,7 @@ resource "aws_security_group" "five" {
 }
 
 resource "aws_s3_bucket" "six" {
-  bucket = "sai00123@933"
+  bucket = "sai0012333"
 }
 
 resource "aws_iam_user" "seven" {
